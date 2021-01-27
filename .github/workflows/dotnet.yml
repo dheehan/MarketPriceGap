@@ -24,4 +24,4 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: dongdong
-      run: MarketPriceGap.sln
+      run: devenv MarketPriceGap.sln
